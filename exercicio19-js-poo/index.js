@@ -1,5 +1,6 @@
 const Author = require("./Author")
 
+/* teste\/ para testar basta digitar node index.js c/ node instalado. */
 const Daniel = new Author("Daniel Paes")
 
 const post = Daniel.writePost("Titulo", "coisas coisas body")

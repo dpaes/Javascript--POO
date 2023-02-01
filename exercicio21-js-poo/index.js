@@ -3,6 +3,7 @@ import { Mage } from "./Mage.js";
 import { Thief } from "./Thief.js";
 import { Warrior } from "./Warrior.js";
 
+/* teste\/ para testar basta digitar node index.js c/ node instalado. */
 const boneco1 = new Thief('personagem Thief', 100, 30, 10)
 
 const boneco2 = new Character('personagem Normal', 105, 25, 15)

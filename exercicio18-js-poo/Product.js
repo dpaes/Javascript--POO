@@ -15,6 +15,8 @@ class Product{
     }
 }
 
+/* teste\/ */
+
 const watch = new Product("Relogio de Pulso", "descrição", 80)
 
 watch.AddToStock(99)

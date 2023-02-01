@@ -14,6 +14,8 @@ class User{
     }
 }
 
+/* \/teste */
+
 const daniel = new User("Daniel Paes","daniel@email.com", "1234")
 
 daniel.login("daniel@email.com","1234")
